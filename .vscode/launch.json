@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3004/01-阶段一（HTML）/panda/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3004/01-阶段一（HTML）/panda/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/01-阶段一（HTML）/panda/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/01-阶段一（HTML）/panda/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3002/01-阶段一（HTML）/panda/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002/01-阶段一（HTML）/panda/index.html"
+        }
+    ]
+}
